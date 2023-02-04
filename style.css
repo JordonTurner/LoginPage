@@ -182,6 +182,10 @@ body {
   transform: scale(1.2);
 }
 
+.other-platforms {
+  color: white;
+}
+
 /* Responsive */
 
 @media (maxwidth: 760px) {
